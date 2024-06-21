@@ -7,4 +7,5 @@
 (There is also screen shot image)
 
 ## You can also download same apk using this link (optional)
-- https://we.tl/t-iYDjk3peJP
+- download https://we.tl/t-iYDjk3peJP
+- install & run
