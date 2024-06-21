@@ -12,7 +12,8 @@
 
 ## Explanation about app
 - I created this app in react native
-- I used AsyncStorage for store the data, Redux, State management.
+- I used AsyncStorage for store the data.
+- Redux and State management are available.
 - CRUD operations are available in this app.
 - User can check or uncheck the task using toggle functionality.
 - 3 screens are available (Home, AddTask, EditTask)
