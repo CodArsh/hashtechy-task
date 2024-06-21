@@ -16,7 +16,7 @@
 - Redux and State management are available.
 - CRUD operations are available in this app.
 - User can check or uncheck the task using toggle functionality.
-- 3 screens are available (Home, AddTask, EditTask)
+- 4 screens are available (Home, AddTask, EditTask, SplashScreen with Hashtechy logo)
 - In Home screen there is complete todo list
 - In Add screen user can add new task. (Strong Validations are available)
 - In Edit screen user can update selected task.
